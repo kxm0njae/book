@@ -1,0 +1,17 @@
+body {
+  background-color: #343a40;
+  background-image: url(../img/razer_snake.jpg);
+  color: #fff;
+}
+.form-control {
+  background-color: #495057;
+  border: 1px solid #6c757d;
+  color: #fff;
+}
+
+.table {
+  color: #fff;
+}
+.table thead {
+  background-color: #6c757d;
+}
